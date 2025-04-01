@@ -1,0 +1,11 @@
+For first time init and setup run
+
+`
+./run.sh
+`
+
+After that first time every time you run it, packages will be automatically updated and there will be a persistant virtual enviroment for python.
+
+For linux only.
+
+Requires Ollama, piper, and Whisper.
